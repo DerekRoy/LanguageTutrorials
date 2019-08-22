@@ -97,4 +97,7 @@ const obj = {};
 //Switch on strict mode by typing:
 'use strict';
 
-// Strict mode prevents reference errors, variables are scope specific to blocks, and lets you know when you are trying to change an immutable variable
+//Strict mode prevents reference errors, variables are scope specific to blocks, and lets you know when you are trying to change an immutable variable
+
+
+//When printing you can use %s for strings, %o to stringify objects, or %j to print full json strings
