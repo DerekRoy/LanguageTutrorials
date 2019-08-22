@@ -101,3 +101,5 @@ const obj = {};
 
 
 //When printing you can use %s for strings, %o to stringify objects, or %j to print full json strings
+
+// JSON stringify can also be used to print out JSON objects
